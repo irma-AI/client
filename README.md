@@ -1,2 +1,2 @@
-# Irma AI releases
-Repo for hosting the releases of the application
+# Irma AI
+Repo for hosting the releases of the client
