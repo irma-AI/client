@@ -1,2 +1,2 @@
-# Irma AI
-Repo for hosting the releases of the client
+# irma AI
+All releases of the client will be available in this repository
